@@ -6,4 +6,6 @@
 
 [Service Media](https://github.com/risdatamamal/service-media) with Express.js as Penyimpan media seperti gambar, dan video
 
+[Service User](https://github.com/risdatamamal/service-user) with Express.js as Penyimpanan data user
+
 ![Arsitektur Capstone Project](https://user-images.githubusercontent.com/52342563/135146349-e2a414f9-3b6e-46c7-ba15-8afe190b77ba.png)
